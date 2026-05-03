@@ -1,27 +1,229 @@
 [
-  {
-    "id": "appt-2026-05-20-allergy",
-    "type": "appointment",
-    "title": "Allergy",
-    "date": "2026-05-20",
-    "start": "14:30",
-    "end": "16:30"
-  },
-  {
-    "id": "appt-2026-06-15-derm",
-    "type": "appointment",
-    "title": "Derm",
-    "date": "2026-06-15",
-    "start": "09:15",
-    "end": "10:15",
-    "notes": "70 Hastings Street"
-  },
-  {
-    "id": "personal-2026-06-15-khansa-birthday",
-    "type": "personal",
-    "title": "Khansa Birthday",
-    "date": "2026-06-15",
-    "start": "00:00",
-    "end": "00:00"
-  }
+    {
+        "id":  "appt-2026-05-20-allergy",
+        "start":  "14:30",
+        "type":  "appointment",
+        "date":  "2026-05-20",
+        "end":  "16:30",
+        "title":  "Allergy"
+    },
+    {
+        "id":  "appt-2026-06-15-derm",
+        "start":  "09:15",
+        "type":  "appointment",
+        "date":  "2026-06-15",
+        "end":  "10:15",
+        "title":  "Derm",
+        "notes":  "70 Hastings Street"
+    },
+    {
+        "id":  "personal-2026-06-15-khansa-birthday",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-06-15",
+        "end":  "00:00",
+        "title":  "Khansa Birthday"
+    },
+    {
+        "id":  "emory-fall2026-classes-begin",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-08-26",
+        "end":  "00:00",
+        "title":  "Fall 2026 Classes Begin (Emory College)"
+    },
+    {
+        "id":  "emory-fall2026-schedule-change-ends",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-09-09",
+        "end":  "00:00",
+        "title":  "Fall 2026 Schedule Change Deadline (Emory College)"
+    },
+    {
+        "id":  "emory-fall2026-labor-day",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-09-07",
+        "end":  "00:00",
+        "title":  "Labor Day - No Classes"
+    },
+    {
+        "id":  "emory-fall2026-grading-deadline",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-10-28",
+        "end":  "00:00",
+        "title":  "Fall 2026 Grading Basis Change Deadline (Emory College)"
+    },
+    {
+        "id":  "emory-fall2026-fall-break-oct12",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-10-12",
+        "end":  "00:00",
+        "title":  "Fall Break - No Classes",
+        "notes":  "Oct 12-13"
+    },
+    {
+        "id":  "emory-fall2026-fall-break-oct13",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-10-13",
+        "end":  "00:00",
+        "title":  "Fall Break - No Classes",
+        "notes":  "Oct 12-13"
+    },
+    {
+        "id":  "emory-fall2026-census-date",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-10-14",
+        "end":  "00:00",
+        "title":  "Fall 2026 Date of Record / Census Date"
+    },
+    {
+        "id":  "emory-fall2026-preregistration-spring",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-10-26",
+        "end":  "00:00",
+        "title":  "Spring 2027 Pre-Registration Opens (Emory College)",
+        "notes":  "University Allowable Start Date"
+    },
+    {
+        "id":  "emory-fall2026-thanksgiving-nov25",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-11-25",
+        "end":  "00:00",
+        "title":  "Thanksgiving Recess - No Classes",
+        "notes":  "Nov 25-27"
+    },
+    {
+        "id":  "emory-fall2026-thanksgiving-nov26",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-11-26",
+        "end":  "00:00",
+        "title":  "Thanksgiving Recess - No Classes",
+        "notes":  "Nov 25-27"
+    },
+    {
+        "id":  "emory-fall2026-thanksgiving-nov27",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-11-27",
+        "end":  "00:00",
+        "title":  "Thanksgiving Recess - No Classes",
+        "notes":  "Nov 25-27"
+    },
+    {
+        "id":  "emory-fall2026-classes-end",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-12-09",
+        "end":  "00:00",
+        "title":  "Fall 2026 Classes End (Emory College)"
+    },
+    {
+        "id":  "emory-fall2026-exam-period",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-12-10",
+        "end":  "00:00",
+        "title":  "Fall 2026 Exam Period (Emory College)",
+        "notes":  "Dec 10-19"
+    },
+    {
+        "id":  "emory-fall2026-end-of-term",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2026-12-19",
+        "end":  "00:00",
+        "title":  "Fall 2026 End of Term (Emory College)"
+    },
+    {
+        "id":  "emory-spring2027-classes-begin",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-01-11",
+        "end":  "00:00",
+        "title":  "Spring 2027 Classes Begin (Emory College)"
+    },
+    {
+        "id":  "emory-spring2027-mlk-holiday",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-01-18",
+        "end":  "00:00",
+        "title":  "MLK Holiday - No Classes"
+    },
+    {
+        "id":  "emory-spring2027-schedule-change-ends",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-01-25",
+        "end":  "00:00",
+        "title":  "Spring 2027 Schedule Change Deadline (Emory College)"
+    },
+    {
+        "id":  "emory-spring2027-census-date",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-03-02",
+        "end":  "00:00",
+        "title":  "Spring 2027 Date of Record / Census Date"
+    },
+    {
+        "id":  "emory-spring2027-spring-break",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-03-08",
+        "end":  "00:00",
+        "title":  "Spring Break - No Classes",
+        "notes":  "Mar 8-12"
+    },
+    {
+        "id":  "emory-spring2027-grading-deadline",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-03-18",
+        "end":  "00:00",
+        "title":  "Spring 2027 Grading Basis Change Deadline (Emory College)"
+    },
+    {
+        "id":  "emory-spring2027-preregistration-fall",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-03-22",
+        "end":  "00:00",
+        "title":  "Fall 2027 Pre-Registration Opens (Emory College)",
+        "notes":  "University Allowable Start Date"
+    },
+    {
+        "id":  "emory-spring2027-classes-end",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-04-26",
+        "end":  "00:00",
+        "title":  "Spring 2027 Classes End (Emory College)"
+    },
+    {
+        "id":  "emory-spring2027-exam-period",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-04-27",
+        "end":  "00:00",
+        "title":  "Spring 2027 Exam Period (Emory College)",
+        "notes":  "Apr 27 - May 7"
+    },
+    {
+        "id":  "emory-spring2027-commencement",
+        "start":  "00:00",
+        "type":  "personal",
+        "date":  "2027-05-10",
+        "end":  "00:00",
+        "title":  "Commencement / End of Term (Emory College)"
+    }
 ]
