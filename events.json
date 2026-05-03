@@ -225,5 +225,14 @@
         "date":  "2027-05-10",
         "end":  "00:00",
         "title":  "Commencement / End of Term (Emory College)"
+    },
+    {
+        "id":  "meeting-2026-05-06-kash-malik",
+        "type":  "meeting",
+        "title":  "Appointment with Kash Malik",
+        "date":  "2026-05-06",
+        "start":  "13:00",
+        "end":  "13:30",
+        "notes":  ""
     }
 ]
