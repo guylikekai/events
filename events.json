@@ -15,5 +15,13 @@
     "start": "09:15",
     "end": "10:15",
     "notes": "70 Hastings Street"
+  },
+  {
+    "id": "personal-2026-06-15-khansa-birthday",
+    "type": "personal",
+    "title": "Khansa Birthday",
+    "date": "2026-06-15",
+    "start": "00:00",
+    "end": "00:00"
   }
 ]
