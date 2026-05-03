@@ -6,5 +6,14 @@
     "date": "2026-05-20",
     "start": "14:30",
     "end": "16:30"
+  },
+  {
+    "id": "appt-2026-06-15-derm",
+    "type": "appointment",
+    "title": "Derm",
+    "date": "2026-06-15",
+    "start": "09:15",
+    "end": "10:15",
+    "notes": "70 Hastings Street"
   }
 ]
