@@ -1,0 +1,10 @@
+[
+  {
+    "id": "appt-2026-05-20-allergy",
+    "type": "appointment",
+    "title": "Allergy",
+    "date": "2026-05-20",
+    "start": "14:30",
+    "end": "16:30"
+  }
+]
