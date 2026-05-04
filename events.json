@@ -1019,20 +1019,11 @@
     "notes": "Coordinate with Khansa to visit Prestige Car Wash in person and cancel the car wash subscription"
   },
   {
-    "id": "hims-followup-20260505",
+    "id": "task-2026-05-04-schedule-kash-malik",
     "start": "09:40",
     "type": "task",
     "date": "2026-05-05",
     "end": "10:10",
-    "title": "Follow up with HIMS",
-    "notes": "Quick 2-min follow-up"
-  },
-  {
-    "id": "task-2026-05-04-schedule-kash-malik",
-    "start": "10:20",
-    "type": "task",
-    "date": "2026-05-05",
-    "end": "10:50",
     "title": "Schedule appointment with Kash Malik",
     "notes": ""
   }
