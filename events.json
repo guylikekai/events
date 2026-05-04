@@ -1044,5 +1044,14 @@
         "end":  "14:10",
         "title":  "Text Khansa — set time to go to Prestige Car Wash (cancel subscription)",
         "notes":  "Coordinate with Khansa to visit Prestige Car Wash in person and cancel the car wash subscription"
+    },
+    {
+        "id":  "hims-followup-20260505",
+        "start":  "09:30",
+        "type":  "task",
+        "date":  "2026-05-05",
+        "end":  "09:40",
+        "title":  "Follow up with HIMS",
+        "notes":  "Quick 2-min follow-up"
     }
 ]
