@@ -1010,15 +1010,6 @@
     "notes": "Cancel via account.microsoft.com or xbox.com/gamepass"
   },
   {
-    "id": "text-khansa-prestige-20260504",
-    "start": "13:40",
-    "type": "urgent",
-    "date": "2026-05-04",
-    "end": "14:10",
-    "title": "Text Khansa — set time to go to Prestige Car Wash (cancel subscription)",
-    "notes": "Coordinate with Khansa to visit Prestige Car Wash in person and cancel the car wash subscription"
-  },
-  {
     "id": "task-2026-05-04-schedule-kash-malik",
     "start": "09:40",
     "type": "task",
