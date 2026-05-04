@@ -1026,5 +1026,23 @@
         "end":  "09:30",
         "title":  "Work Meetings",
         "notes":  "Recurring daily standup block"
+    },
+    {
+        "id":  "minecraft-cancel-20260504",
+        "start":  "11:20",
+        "type":  "urgent",
+        "date":  "2026-05-04",
+        "end":  "11:50",
+        "title":  "Cancel Minecraft Realms subscription",
+        "notes":  "Cancel via account.microsoft.com or xbox.com/gamepass"
+    },
+    {
+        "id":  "text-khansa-prestige-20260504",
+        "start":  "13:40",
+        "type":  "urgent",
+        "date":  "2026-05-04",
+        "end":  "14:10",
+        "title":  "Text Khansa — set time to go to Prestige Car Wash (cancel subscription)",
+        "notes":  "Coordinate with Khansa to visit Prestige Car Wash in person and cancel the car wash subscription"
     }
 ]
